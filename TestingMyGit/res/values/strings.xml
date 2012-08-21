@@ -1,0 +1,8 @@
+<resources>
+
+    <string name="app_name">TestingMyGit</string>
+    <string name="hello_world">Testing git</string>
+    <string name="menu_settings">Settings</string>
+    <string name="title_activity_main">MainActivity</string>
+
+</resources>
